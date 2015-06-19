@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_8f324ff0",
+        "filename": "Gemfile",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1005143
+      },
+      "writtenOn": "2015-06-19T15:31:38Z",
+      "side": 1,
+      "message": "This probably doesn\u0027t what the authors intended, but it\u0027s innocuous if the gem is explicitly required in the bundle exec\u0027d code.",
+      "range": {
+        "startLine": 35,
+        "startChar": 25,
+        "endLine": 35,
+        "endChar": 50
+      },
+      "revId": "6e1582f3687fc99c773891a4a64935aa985c2004",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
